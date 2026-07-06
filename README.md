@@ -8,7 +8,7 @@
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-Data Analyst in training | Torilo Academy Data Analysis Program
+Data Analyst in training | Torilo Academy Data Analysis Program|
 Founder, Quantrans Agro International Limited | Founder, Olaseni Lawal Foundation
 
 I turn raw data into clear, actionable insights using SQL, Power BI, and Excel. Below are my recent module projects from the Torilo Academy Data Analysis Program.
